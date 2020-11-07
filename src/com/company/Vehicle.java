@@ -1,6 +1,7 @@
 package com.company;
 
 public abstract class Vehicle {
+
     protected int wheelCount;
     protected String vehicleType;
 

@@ -12,7 +12,6 @@ private int maxSpeed;
         System.out.println("Транспортное средство: Мотоцикл" + ", " + "Количество колес:" + wheelCount + ", " + "Максимальная скорость:" + maxSpeed + "км/ч");
     }
 
-
     @Override
     public int getCost() {
         int cost;
